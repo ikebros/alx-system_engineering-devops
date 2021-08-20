@@ -19,4 +19,6 @@ Script Lists and Functions..
  8-firstdelete: Deletes the file betty in /tmp/my_fist_directory/.
  
  9-firstdirdeletion: Deletes the directory my_first_directory that is in /tmp directory.
+
+ 10-back: changes the working directory to the previous one.
  
