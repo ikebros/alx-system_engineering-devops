@@ -10,5 +10,6 @@ Script Lists and Functions..
  
  4-listmorefiles: Displays Current directory contents, including hidden files.
 
- 5-listfilesdigitsonly: Display Current directory contents,i. Long Format ii. with user and group ID numerically iii. hidden files
- 
+ 5-listfilesdigitsonly: Display Current directory contents,i. Long Format ii. with user and group ID numerically iii. hidden files.
+
+ 6-firstdirectory: creates a directory named my_first_directory in the /tmp/ directory.
