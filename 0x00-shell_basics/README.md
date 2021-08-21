@@ -23,3 +23,5 @@ Script Lists and Functions..
  10-back: changes the working directory to the previous one.
 
  11-lists: list all files in current working directory and the parent of the working directory and the /boot directory in the long format.
+
+12-file_type: prints the file type of the file named iamafile in the /tmp directory
